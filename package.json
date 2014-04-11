@@ -1,0 +1,23 @@
+{
+  "name": "jquery-cube-filter",
+  "title": "jQuery Cube Filter",
+  "description": "Filter a list of items by class name.",
+  "homepage": "https://github.com/wearecube/jquery-cube-filter/",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "Mathis Hofer",
+    "url": "http://www.wearecube.ch/",
+    "email": "hofer@puzzle.ch"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.4.3",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "load-grunt-tasks": "~0.2.0"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}

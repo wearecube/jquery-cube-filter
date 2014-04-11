@@ -1,0 +1,8 @@
+{
+  "name": "jquery-cube-filter",
+  "version": "0.0.1",
+  "main": "./dist/jquery.cube-filter.min.js",
+  "dependencies": {
+    "jquery": ">=1.6"
+  }
+}
